@@ -1,12 +1,12 @@
 <p align="right">
-  <a href="./README_RU.md">
-    <img src="https://img.shields.io/badge/lang-Русский-red?style=for-the-badge" alt="Русская версия" />
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/lang-English-blue?style=for-the-badge" alt="English version" />
   </a>
 </p>
 
 <div align="center">
 
-# Alexey Staburov
+# Алексей Стабуров
 
 ### Middle Frontend Developer · Vue.js · TypeScript · Three.js · Game Development
 
@@ -32,17 +32,17 @@
 
 ---
 
-## About Me
+## Обо мне
 
-I am a frontend developer with commercial experience in product development. My main stack is **Vue 2 / Vue 3**, **JavaScript**, **TypeScript**, **Pinia**, **PrimeVue**, and **REST API**.
+Я Frontend-разработчик с коммерческим опытом в продуктовой разработке. Основной стек — **Vue 2 / Vue 3**, **JavaScript**, **TypeScript**, **Pinia**, **PrimeVue**, **REST API**.
 
-I work with complex interfaces: CRM systems, admin panels, forms, tables, visual editors, SVG, graphs, 3D scenes, and interactive UI systems.
+Работаю со сложными интерфейсами: CRM, админ-панели, формы, таблицы, визуальные редакторы, SVG, графы, 3D-сцены и интерактивные UI-системы.
 
-A separate direction of my work is **3D and browser game development**: I develop gameplay mechanics, work with **Three.js**, **WebGL**, and **PixiJS**, create low-poly assets and models in **Blender 3D**, and optimize rendering performance.
+Отдельное направление — **3D и игры в браузере**: разрабатываю игровые механики, работаю с **Three.js**, **WebGL**, **PixiJS**, создаю low-poly ассеты и модели в **Blender 3D**, оптимизирую рендеринг и производительность.
 
 ---
 
-## Main Stack
+## Основной стек
 
 <div align="center">
 
@@ -88,7 +88,7 @@ A separate direction of my work is **3D and browser game development**: I develo
 
 ---
 
-## What I Do
+## Чем я занимаюсь
 
 ```txt
 Frontend Architecture  →  Vue 2 / Vue 3 / Composition API / TypeScript
@@ -101,7 +101,7 @@ Game Development       →  Three.js, PixiJS, WebGL, game UI, optimization
 
 ---
 
-## My Game
+## Моя игра
 
 ### Roguelike Game
 
@@ -112,24 +112,24 @@ Game Development       →  Three.js, PixiJS, WebGL, game UI, optimization
   <img src="https://img.shields.io/badge/Status-In_Development-FF9800?style=for-the-badge" alt="Status" />
 </p>
 
-**Roguelike Game** is my independent browser-based game project built with **React**, **Three.js**, and **Vite**. The project is centered around a room-based run: the player chooses doors, fights enemies, collects loot, upgrades the character, and gradually moves deeper through the level.
+**Roguelike Game** — мой самостоятельный browser-based game project на **React**, **Three.js** и **Vite**. Проект строится вокруг забега по комнатам: игрок выбирает двери, проходит сражения, получает лут, усиливает персонажа и постепенно продвигается глубже по уровню.
 
-The main focus of the project is not only UI, but a complete browser game architecture: separated game logic, a 3D scene, an entity system, inventory handling, room generation, state management, and performance optimization.
+Основной фокус проекта — не просто UI, а полноценная игровая архитектура в браузере: отдельная игровая логика, 3D-сцена, система сущностей, работа с инвентарём, генерация комнат, обработка состояний и оптимизация производительности.
 
-**What I am building in the project:**
+**Что реализую в проекте:**
 
-- 3D scene with **Three.js**;
-- UI layer with **React**;
-- build setup with **Vite**;
-- animations and transitions with **GSAP**;
-- room and door system;
-- enemies, attacks, HP, and combat states;
-- loot with different rarity levels;
-- inventory and gameplay parameters;
-- special rooms: shop, safe room, hell room;
-- low-poly visual style;
-- custom 3D models and assets made with **Blender 3D**;
-- geometry, material, and FPS optimization.
+- 3D-сцена на **Three.js**;
+- UI-слой на **React**;
+- сборка через **Vite**;
+- анимации и переходы через **GSAP**;
+- система комнат и дверей;
+- враги, атаки, HP, боевые состояния;
+- лут разной редкости;
+- инвентарь и игровые параметры;
+- специальные комнаты: shop, safe room, hell room;
+- low-poly визуальный стиль;
+- собственные 3D-модели и ассеты через **Blender 3D**;
+- оптимизация геометрии, материалов и FPS.
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -141,7 +141,7 @@ The main focus of the project is not only UI, but a complete browser game archit
 
 ---
 
-## Projects
+## Проекты
 
 ### Iggy Reservation
 
@@ -151,13 +151,13 @@ The main focus of the project is not only UI, but a complete browser game archit
   </a>
 </p>
 
-An application for managing table reservations, built with **Vue 3**.
+Приложение для контроля резервов столов на **Vue 3**.
 
-- frontend development from scratch;
-- reservation logic and user flows;
-- forms, routing, and state management;
-- component structure design;
-- a pet project that was purchased by a company and is used in work processes.
+- frontend-разработка с нуля;
+- логика бронирования и пользовательские сценарии;
+- формы, маршрутизация, управление состоянием;
+- проектирование структуры компонентов;
+- pet-проект, который был приобретён компанией и используется в рабочих процессах.
 
 ---
 
@@ -172,14 +172,14 @@ An application for managing table reservations, built with **Vue 3**.
   </a>
 </p>
 
-A website for a taproom with retro-style 3D visualization.
+Сайт для заведения с 3D-визуализацией в ретро-стиле.
 
 - Vue / JavaScript;
-- responsive layout and UI components;
-- Web Component and Shadow DOM;
-- 3D visualization with **Three.js**;
-- custom 3D models created in **Blender 3D**;
-- optimization for low-end devices.
+- адаптивная верстка и UI-компоненты;
+- web-component и Shadow DOM;
+- 3D-визуализация через **Three.js**;
+- кастомные 3D-модели, созданные в **Blender 3D**;
+- оптимизация под слабые устройства.
 
 ---
 
@@ -191,12 +191,12 @@ A website for a taproom with retro-style 3D visualization.
   </a>
 </p>
 
-A visual project for working with vehicle electrical circuits.
+Визуальный проект для работы со схемами автоэлектрики.
 
-- interactive 3D scene;
-- technical visualization;
-- working with models, materials, and shaders;
-- browser performance optimization.
+- интерактивная 3D-сцена;
+- техническая визуализация;
+- работа с моделями, материалами и шейдерами;
+- оптимизация производительности в браузере.
 
 ---
 
@@ -211,18 +211,18 @@ A visual project for working with vehicle electrical circuits.
   </a>
 </p>
 
-A **PixiJS** game built as a Telegram Mini App.
+Игра на **PixiJS** в формате Telegram Mini App.
 
-- Canvas graphics;
-- gameplay mechanics;
+- Canvas-графика;
+- игровые механики;
 - UI;
-- events;
-- state;
-- rendering.
+- события;
+- состояние;
+- рендеринг.
 
 ---
 
-## Currently Improving
+## Сейчас развиваю
 
 <div align="center">
 
@@ -238,7 +238,7 @@ A **PixiJS** game built as a Telegram Mini App.
 
 ---
 
-## GitHub Stats
+## GitHub статистика
 
 <div align="center">
 
@@ -249,7 +249,7 @@ A **PixiJS** game built as a Telegram Mini App.
 
 ---
 
-## Contacts
+## Контакты
 
 <div align="center">
 
@@ -262,6 +262,6 @@ A **PixiJS** game built as a Telegram Mini App.
   </a>
 </p>
 
-### Open to frontend projects, product development, and tasks at the intersection of UI, 3D, and games.
+### Открыт к frontend-проектам, продуктовой разработке и задачам на стыке UI, 3D и игр.
 
 </div>
