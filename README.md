@@ -8,7 +8,7 @@
 
 # Alexey Staburov
 
-### Middle Frontend Developer · Vue.js · TypeScript · Three.js · Game Development
+### Middle Frontend Developer · Vue.js · React · TypeScript · Three.js · Game Development
 
 <p>
   <a href="https://github.com/StaburovAlexey">
@@ -34,7 +34,7 @@
 
 ## About Me
 
-I am a frontend developer with commercial experience in product development. My main stack is **Vue 2 / Vue 3**, **JavaScript**, **TypeScript**, **Pinia**, **PrimeVue**, and **REST API**.
+I am a frontend developer with commercial experience in product development. My main stack is **Vue 2 / Vue 3**, **React**, **JavaScript**, **TypeScript**, **Pinia**, **PrimeVue**, and **REST API**.
 
 I work with complex interfaces: CRM systems, admin panels, forms, tables, visual editors, SVG, graphs, 3D scenes, and interactive UI systems.
 
@@ -52,6 +52,7 @@ A separate direction of my work is **3D and browser game development**: I develo
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Vue_Router-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue Router" />
   <img src="https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vue.js&logoColor=black" alt="Pinia" />
 </p>
@@ -91,7 +92,7 @@ A separate direction of my work is **3D and browser game development**: I develo
 ## What I Do
 
 ```txt
-Frontend Architecture  →  Vue 2 / Vue 3 / Composition API / TypeScript
+Frontend Architecture  →  Vue 2 / Vue 3 / React / Composition API / TypeScript
 Business UI            →  CRM, admin panels, forms, tables, complex state
 Legacy Refactoring     →  migration, decomposition, code simplification
 Visual Interfaces      →  SVG, graphs, technical visualization, 3D scenes
