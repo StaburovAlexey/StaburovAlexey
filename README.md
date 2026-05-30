@@ -1,175 +1,261 @@
-# Алексей Стабуров  
-Middle Frontend Developer (Vue.js)
+<div align="center">
 
-Привет 👋  
-Я Frontend-разработчик с 2+ годами коммерческого опыта в продуктовой разработке.
+# Алексей Стабуров
 
-Основной стек — Vue 2 / Vue 3 и JavaScript. Создаю и развиваю клиентские web-приложения и админ-панели с высокой плотностью бизнес-логики. Регулярно работаю с legacy-кодом: рефакторинг, упрощение архитектуры, повышение читаемости и поддерживаемости. Есть практический опыт миграций Vue 2 → Vue 3 и переноса клиентской части с Angular → Vue 3.
+### Middle Frontend Developer · Vue.js · TypeScript · Three.js · Game Development
 
-🔌 Уверенно работаю с backend API: сложные формы, состояния, асинхронная логика, обработка ошибок. Участвовал в разработке MVP, которые используются в продакшене.
+<p>
+  <a href="https://github.com/StaburovAlexey">
+    <img src="https://img.shields.io/badge/GitHub-StaburovAlexey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://t.me/GilbertFrost">
+    <img src="https://img.shields.io/badge/Telegram-@GilbertFrost-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:staburov.a@yandex.ru">
+    <img src="https://img.shields.io/badge/Email-staburov.a@yandex.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-🧊 Отдельное направление — 3D и визуальные интерфейсы (Three.js, WebGL, WebXR, Pixi.js):
-- самостоятельно создаю 3D-модели
-- оптимизирую геометрию, текстуры и материалы
-- пишу кастомные шейдеры вручную
-- оптимизирую производительность и повышаю FPS
+<p>
+  <img src="https://img.shields.io/badge/Frontend-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/3D-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Game_Dev-WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
+</p>
+
+</div>
+
+---
+
+## Обо мне
+
+Я Frontend-разработчик с коммерческим опытом в продуктовой разработке. Основной стек — **Vue 2 / Vue 3**, **JavaScript**, **TypeScript**, **Pinia**, **PrimeVue**, **REST API**.
+
+Работаю со сложными интерфейсами: CRM, админ-панели, формы, таблицы, визуальные редакторы, SVG, графы, 3D-сцены и интерактивные UI-системы.
+
+Отдельное направление — **3D и игры в браузере**: разрабатываю игровые механики, работаю с **Three.js**, **WebGL**, **PixiJS**, создаю low-poly ассеты и модели в **Blender 3D**, оптимизирую рендеринг и производительность.
+
+---
+
+## Основной стек
+
+<div align="center">
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Vue_Router-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue Router" />
+  <img src="https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vue.js&logoColor=black" alt="Pinia" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/PrimeVue-41B883?style=for-the-badge&logo=primevue&logoColor=white" alt="PrimeVue" />
+</p>
+
+### 3D / Game Development
+
+<p>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
+  <img src="https://img.shields.io/badge/PixiJS-E91E63?style=for-the-badge" alt="PixiJS" />
+  <img src="https://img.shields.io/badge/Blender_3D-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender 3D" />
+  <img src="https://img.shields.io/badge/Canvas-222222?style=for-the-badge&logo=html5&logoColor=white" alt="Canvas" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
+
+</div>
 
 ---
 
 ## Чем я занимаюсь
-- Разрабатываю админ-панели и клиентские web-приложения  
-- Перевожу проекты с устаревших решений на **Vue 3**  
-- Рефакторю сложную и перегруженную логику  
-- Участвую в создании MVP, которые доходят до продакшена  
-- Работаю с визуальными интерфейсами: графы, SVG, 3D
 
-Параллельно изучаю **TypeScript** и готов использовать его в коммерческой разработке.
-
----
-
-## Где я работал и работаю
-
-### 🏢 **SipSpeak**
-*Frontend Developer*
-📅 (февраль 2026 — н.в.)
-
-CRM-система для кол-центров с выбором возможности набора (предиктивный, прогрессивный и т.д.)
-
-Миграция и модернизация CRM-системы:
-— переход с Vue 2 (Options API, Element UI, JsSIP)
-на Vue 3 (Composition API) + TypeScript + PrimeVue + SIP.js
-— рефакторинг архитектуры компонентов и бизнес-логики
-— внедрение строгой типизации (TypeScript)
-— замена SIP-стека с сохранением существующей логики звонков
-— оптимизация рендеринга и взаимодействия компонентов
-
-**Результат:**
-— повышение масштабируемости проекта
-— упрощение поддержки и развития системы
+```txt
+Frontend Architecture  →  Vue 2 / Vue 3 / Composition API / TypeScript
+Business UI            →  CRM, admin panels, forms, tables, complex state
+Legacy Refactoring     →  migration, decomposition, code simplification
+Visual Interfaces      →  SVG, graphs, technical visualization, 3D scenes
+Game Development       →  Three.js, PixiJS, WebGL, game UI, optimization
+3D Assets              →  Blender 3D, low-poly models, materials, optimization
+```
 
 ---
 
-### 🏢 **ПРОФ-ИТ ГРУПП**  
-*Frontend Developer*  
-📅 май 2024 — февраль 2026  
+## Моя игра
 
-IT-компания, системная интеграция и продуктовая разработка.
+### Roguelike Game
 
-- Разработка и поддержка админ-панели и клиентского web-приложения  
-- Миграция проектов с **Vue 2 на Vue 3**  
-- Перенос клиентской части приложения с **Angular на Vue 3**  
-- Рефакторинг сложной логики интерфейсов и визуальных схем  
-- Участие в разработке MVP для заказчиков  
+<p>
+  <a href="https://github.com/StaburovAlexey/rougelike-game">
+    <img src="https://img.shields.io/badge/Repository-rougelike--game-181717?style=for-the-badge&logo=github&logoColor=white" alt="Roguelike Game Repository" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-In_Development-FF9800?style=for-the-badge" alt="Status" />
+</p>
 
-**Результаты:**
-- Сокращение объёма кода сложных компонентов примерно на 50 %  
-- Ускорение работы интерфейсов  
-- Создание редакторов SVG и 3D-моделей для технической документации  
-- MVP с использованием нейросетей внедрён в продукт
+**Roguelike Game** — мой самостоятельный browser-based game project на **React**, **Three.js** и **Vite**. Проект строится вокруг забега по комнатам: игрок выбирает двери, проходит сражения, получает лут, усиливает персонажа и постепенно продвигается глубже по уровню.
 
----
+Основной фокус проекта — не просто UI, а полноценная игровая архитектура в браузере: отдельная игровая логика, 3D-сцена, система сущностей, работа с инвентарём, генерация комнат, обработка состояний и оптимизация производительности.
 
-### 🌍 **Фриланс / контрактная работа**  
-*Frontend Developer*  
-📅 ноябрь 2023 — май 2024  
+**Что реализую в проекте:**
 
-Проект для автосервиса (Австралия):  
-👉 https://repair-shop.com.au/
+- 3D-сцена на **Three.js**;
+- UI-слой на **React**;
+- сборка через **Vite**;
+- анимации и переходы через **GSAP**;
+- система комнат и дверей;
+- враги, атаки, HP, боевые состояния;
+- лут разной редкости;
+- инвентарь и игровые параметры;
+- специальные комнаты: shop, safe room, hell room;
+- low-poly визуальный стиль;
+- собственные 3D-модели и ассеты через **Blender 3D**;
+- оптимизация геометрии, материалов и FPS.
 
-- Поддержка и развитие существующего frontend-приложения  
-- Добавление нового функционала  
-- Исправление ошибок  
-- Рефакторинг крупных монолитных компонентов  
-- Декомпозиция логики для повторного использования
-
----
-
-## Стек
-- **JavaScript (ES6+)**
-- **Vue.js (Vue 2 / Vue 3)**
-- Vue Router
-- Vuex / Pinia
-- HTML5, CSS3, Sass
-- Git (GitHub / GitLab)
-- TypeScript (изучаю, готов использовать)
-- **Three.js / основы WebGL**
-- Pixi.js
-- mxGraph
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Blender_3D-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender 3D" />
+</p>
 
 ---
 
 ## Проекты
 
-### 🗓 **Iggy Reservation**  
-Приложение для бронирования на Vue 3 
+### Iggy Reservation
 
-👉 [GitHub репозиторий](https://github.com/StaburovAlexey/iggy-reservation-vue)
+<p>
+  <a href="https://github.com/StaburovAlexey/iggy-reservation-vue">
+    <img src="https://img.shields.io/badge/Repository-iggy--reservation--vue-181717?style=for-the-badge&logo=github&logoColor=white" alt="Iggy Reservation Repository" />
+  </a>
+</p>
 
-Проект начинался как pet-проект, но в итоге был **приобретён компанией** и используется в рабочих процессах.
+Приложение для контроля резервов столов на **Vue 3**.
 
-- Полная разработка frontend-части с нуля  
-- Реализация логики бронирования и пользовательских сценариев  
-- Формы, маршрутизация, управление состоянием  
-- Проектирование структуры компонентов  
-- Активные пользователи: **10–15 человек**
-
----
-
-### 🍺 **Iggy Taproom Site**  
-Сайт для заведения (Iggy-taproom) на Vue 
-
-👉 [Сайт проекта](https://tap-room.alexeystaburov.ru/)
-👉 [GitHub репозиторий](https://github.com/StaburovAlexey/iggy-taproom-site)
-
-Проект с упором на интерфейсы и презентационную часть.
-
-- Разработка пользовательского веб-сайта  
-- Адаптивная верстка и UI-компоненты  
-- Чистый JS и web-component с shadow-dom
-- 3D визуализация в ретро-стиле с помощью THREE.JS
-- Кастомные 3D модели созданые Blender
-- Оптимизация под слабые устройства.
+- frontend-разработка с нуля;
+- логика бронирования и пользовательские сценарии;
+- формы, маршрутизация, управление состоянием;
+- проектирование структуры компонентов;
+- pet-проект, который был приобретён компанией и используется в рабочих процессах.
 
 ---
 
-### 🚗 **Vehicle Electrical Circuit**  
-Визуальный проект для работы со схемами автоэлектрики
+### Iggy Taproom Site
 
-👉 [Сайт проекта](https://vehicle.alexeystaburov.ru/)
-👉 [GitHub репозиторий](https://github.com/StaburovAlexey/vehicle-electrical-circuit)
+<p>
+  <a href="https://tap-room.alexeystaburov.ru/">
+    <img src="https://img.shields.io/badge/Live_Demo-tap--room.alexeystaburov.ru-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Iggy Taproom Live Demo" />
+  </a>
+  <a href="https://github.com/StaburovAlexey/iggy-taproom-site">
+    <img src="https://img.shields.io/badge/Repository-iggy--taproom--site-181717?style=for-the-badge&logo=github&logoColor=white" alt="Iggy Taproom Repository" />
+  </a>
+</p>
 
-Проект в направлении технической визуализации и сложных интерфейсов.
-3D-сцена автомобиля с интерактивным взаимодействием и оптимизацией под браузер.
-Самостоятельная работа с моделями, материалами, шейдерами и производительностью.  
+Сайт для заведения с 3D-визуализацией в ретро-стиле.
 
----
-
-### 🎮 **FixGear Game**  
-Игра на Pixi.js в формате Telegram Mini App  
-
-👉 [GitHub репозиторий](https://github.com/StaburovAlexey/fixgear-game)  
-👉 [Запустить в Telegram](https://t.me/dev_fgr_bout_bot)
-
-Pet-проект для практики Canvas-графики и игровых механик.
-
-- Разработка игры на **Pixi.js**
-- Интеграция в **Telegram Mini App**
-- Реализация игровой логики и UI
-- Работа с событиями, состоянием и рендерингом
+- Vue / JavaScript;
+- адаптивная верстка и UI-компоненты;
+- web-component и Shadow DOM;
+- 3D-визуализация через **Three.js**;
+- кастомные 3D-модели, созданные в **Blender 3D**;
+- оптимизация под слабые устройства.
 
 ---
 
-## Немного обо мне
-Ранее работал в продажах и на управленческой позиции, поэтому спокойно общаюсь с заказчиками, понимаю бизнес-контекст и не боюсь ответственности.
+### Vehicle Electrical Circuit
 
-Интересуют продуктовые задачи, сложные интерфейсы и проекты, где можно развиваться технически, особенно в сторону **3D, Three.js и WebGL**.
+<p>
+  <a href="https://vehicle.alexeystaburov.ru/">
+    <img src="https://img.shields.io/badge/Live_Demo-vehicle.alexeystaburov.ru-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Vehicle Live Demo" />
+  </a>
+</p>
+
+Визуальный проект для работы со схемами автоэлектрики.
+
+- интерактивная 3D-сцена;
+- техническая визуализация;
+- работа с моделями, материалами и шейдерами;
+- оптимизация производительности в браузере.
+
+---
+
+### FixGear Game
+
+<p>
+  <a href="https://github.com/StaburovAlexey/fixgear-game">
+    <img src="https://img.shields.io/badge/Repository-fixgear--game-181717?style=for-the-badge&logo=github&logoColor=white" alt="FixGear Repository" />
+  </a>
+  <a href="https://t.me/fgr_bot">
+    <img src="https://img.shields.io/badge/Telegram_Mini_App-Run-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="FixGear Telegram Mini App" />
+  </a>
+</p>
+
+Игра на **PixiJS** в формате Telegram Mini App.
+
+- Canvas-графика;
+- игровые механики;
+- UI;
+- события;
+- состояние;
+- рендеринг.
+
+---
+
+## Сейчас развиваю
+
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-Deepening-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vue_3-Architecture-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue 3" />
+  <img src="https://img.shields.io/badge/Three.js-Game_Development-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js Game Development" />
+  <img src="https://img.shields.io/badge/WebGL-Shaders-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL Shaders" />
+  <img src="https://img.shields.io/badge/Blender_3D-Low--Poly_Assets-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender 3D Low Poly Assets" />
+</p>
+
+</div>
+
+---
+
+## GitHub статистика
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=StaburovAlexey&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StaburovAlexey&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
 
 ---
 
 ## Контакты
-- 💬 Telegram: [@GilbertFrost](https://t.me/GilbertFrost)
-- ✉️ Email: [staburov.a@yandex.ru](mailto:staburov.a@yandex.ru)
 
----
+<div align="center">
 
-⭐ Открыт к интересным frontend-проектам и новым задачам
+<p>
+  <a href="https://t.me/GilbertFrost">
+    <img src="https://img.shields.io/badge/Telegram-@GilbertFrost-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:staburov.a@yandex.ru">
+    <img src="https://img.shields.io/badge/Email-staburov.a@yandex.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+### Открыт к frontend-проектам, продуктовой разработке и задачам на стыке UI, 3D и игр.
+
+</div>
