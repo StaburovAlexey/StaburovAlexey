@@ -1,4 +1,4 @@
-<p align="right">
+9<p align="right">
   <a href="./README_RU.md">
     <img src="https://img.shields.io/badge/lang-Русский-red?style=for-the-badge" alt="Русская версия" />
   </a>
@@ -286,9 +286,6 @@ A visual project for working with vehicle electrical circuits.
 <p>
   <a href="https://github.com/StaburovAlexey/fixgear-game">
     <img src="https://img.shields.io/badge/Repository-fixgear--game-181717?style=for-the-badge&logo=github&logoColor=white" alt="FixGear Repository" />
-  </a>
-  <a href="https://t.me/fgr_bot">
-    <img src="https://img.shields.io/badge/Telegram_Mini_App-Run-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="FixGear Telegram Mini App" />
   </a>
 </p>
 
