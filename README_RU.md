@@ -245,7 +245,7 @@ AI Integrations        →  AI API, script generation, defect detection from pho
 ### Iggy Taproom Site
 
 <p>
-  <a href="https://tap-room.alexey-staburov.ru/">
+  <a href="https://taproom.alexey-staburov.ru/">
     <img src="https://img.shields.io/badge/Live_Demo-tap--room.alexeystaburov.ru-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Iggy Taproom Live Demo" />
   </a>
   <a href="https://github.com/StaburovAlexey/iggy-taproom-site">
