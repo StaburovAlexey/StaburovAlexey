@@ -245,7 +245,7 @@ An application for managing table reservations, built with **Vue 3**.
 ### Iggy Taproom Site
 
 <p>
-  <a href="https://tap-room.alexeystaburov.ru/">
+  <a href="https://taproom.alexey-staburov.ru/">
     <img src="https://img.shields.io/badge/Live_Demo-tap--room.alexeystaburov.ru-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Iggy Taproom Live Demo" />
   </a>
   <a href="https://github.com/StaburovAlexey/iggy-taproom-site">
@@ -267,7 +267,7 @@ A website for a taproom with retro-style 3D visualization.
 ### Vehicle Electrical Circuit
 
 <p>
-  <a href="https://vehicle.alexeystaburov.ru/">
+  <a href="https://vehicle3d.alexey-staburov.ru/">
     <img src="https://img.shields.io/badge/Live_Demo-vehicle.alexeystaburov.ru-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Vehicle Live Demo" />
   </a>
 </p>
