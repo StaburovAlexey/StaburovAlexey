@@ -8,7 +8,7 @@
 
 # Алексей Стабуров
 
-### Middle Frontend / Fullstack JS Developer · Vue.js · React · TypeScript · Node.js · Three.js · AR/WebAR
+### Fullstack Developer · Vue.js · TypeScript · Node.js · PHP / Symfony · Three.js · Playable Ads
 
 <p>
   <a href="https://github.com/StaburovAlexey">
@@ -36,13 +36,13 @@
 
 ## Обо мне
 
-Я **Frontend / Fullstack JS-разработчик** с **3 годами 10 месяцами коммерческого опыта** в продуктовой разработке. Основной стек — **Vue 2 / Vue 3**, **React**, **JavaScript**, **TypeScript**, **Pinia**, **Zustand**, **TanStack Query**, **PrimeVue**, **Element Plus**, **REST API**, **Node.js**, **Express**, **PostgreSQL**, **Prisma ORM**, **Docker**.
+Я **Fullstack-разработчик** с **4+ годами коммерческого опыта** и основным фокусом на **Vue.js и TypeScript**. Также разрабатываю backend на **Node.js** и **PHP / Symfony**.
 
-Работаю со сложными **B2B-интерфейсами**: CRM, админ-панели, формы, таблицы, визуальные редакторы, SVG-схемы, графы, техническая визуализация, 3D-сцены и интерактивные UI-системы.
+В **SipSpeak** самостоятельно перенёс весь frontend CRM с **Nuxt 2 / Vue 2 и Element UI** на **Vue 3, TypeScript и PrimeVue**. Новый интерфейс внедрён и используется пользователями. Развиваю API, отчётность, разграничение доступа, редактор сценариев разговора и мониторинг качества WebRTC-звонков.
 
-В коммерческих проектах работал с высоконагруженной CRM на **500+ активных пользователей в день**, переносил **200+ компонентов** с **Vue 2 на Vue 3**, сокращал объём кода на **30–50%**, ускорял загрузку страниц примерно на **25%**, снижал отклик интерфейса с **800 мс до 450 мс**.
+Есть опыт создания технических **2D/3D-редакторов**, браузерных **AR / WebXR-сцен**, интеграции AI API, работы с **WebSocket / WebRTC** и оптимизации производительности. Проводил code review и координировал работу части команды.
 
-Отдельное направление — **3D, browser game development и AR/WebAR**: разрабатываю игровые механики, работаю с **Three.js**, **WebGL**, **PixiJS**, создаю low-poly ассеты и модели в **Blender 3D**, делаю AR-сцены в браузере и оптимизирую рендеринг под слабые устройства.
+Параллельно разрабатываю **playable ads и браузерные игры** на **TypeScript, Three.js и PixiJS**: игровые механики, графику, звук, мобильное управление, адаптеры платформ и сборки в самостоятельный HTML.
 
 ---
 
@@ -75,6 +75,9 @@
 ### Backend / Fullstack
 
 <p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -113,13 +116,13 @@
 ## Чем я занимаюсь
 
 ```txt
-Frontend Architecture  →  Vue 2 / Vue 3 / React / Composition API / TypeScript
+Frontend Architecture  →  Vue 2 / Vue 3 / Composition API / TypeScript
 Business UI            →  CRM, admin panels, forms, tables, complex state
 Legacy Refactoring     →  migration, decomposition, code simplification
 Data Layer             →  REST API, TanStack Query, caching, invalidation, state management
-Fullstack              →  Node.js, Express, PostgreSQL, Prisma ORM, Docker
+Fullstack              →  Node.js, PHP, Symfony, Doctrine, MySQL, REST API, Docker
 Visual Interfaces      →  SVG, graphs, technical visualization, 3D scenes
-Game Development       →  Three.js, PixiJS, WebGL, game UI, optimization
+Game Development       →  Three.js, PixiJS, WebGL, playable ads, game UI, optimization
 AR / WebAR             →  browser AR scenes, mobile rendering, low-end optimization
 AI Integrations        →  AI API, script generation, defect detection from photos
 3D Assets              →  Blender 3D, low-poly models, materials, optimization
@@ -127,142 +130,106 @@ AI Integrations        →  AI API, script generation, defect detection from pho
 
 ---
 
-## Официальный коммерческий опыт
+## Коммерческий опыт
 
-### SipSpeak — Frontend-разработчик
+### SipSpeak — Fullstack-разработчик (Vue.js / Node.js / PHP)
 
 **Февраль 2026 — настоящее время**
 
-Разработка CRM-платформы для колл-центров с нагрузкой более **500 активных пользователей в день**.
+Разработка CRM для автоматизации контакт-центров и управления телефонией.
 
-- Переносил **200+ компонентов** с **Vue 2** на **Vue 3**.
-- Сокращал объём кода примерно на **30%** за счёт рефакторинга и декомпозиции.
-- Ускорял загрузку страниц примерно на **25%**.
-- Разрабатывал браузерную IP-телефонию на **WebRTC / SIP**.
-- Работал над конструктором скриптов продаж для операторов.
-- Интегрировал AI-генерацию скриптов во внутренние рабочие процессы.
-- Занимался исправлением ошибок, обновлением зависимостей, планированием и code review.
+- Самостоятельно перенёс весь frontend с Nuxt 2 / Vue 2 и Element UI на Vue 3, TypeScript и PrimeVue; новый интерфейс внедрён в production.
+- Внедрил дизайн-систему и архитектуру приложения, разработал визуальный редактор сценариев разговора.
+- Автоматизировал создание туров и обучающих материалов, сократив обращения в поддержку на 33%.
+- Внедрил мониторинг качества WebRTC-звонков и мигрировал телефонию с JsSIP на SIP.js.
+- Развиваю backend на PHP/Symfony и Node.js, API, отчётность и разграничение доступа.
+- Покрываю изменения frontend и backend автоматизированными тестами.
 
-**Стек:** Vue 2, Vue 3, TypeScript, JavaScript, Pinia, REST API, WebRTC, SIP, AI-интеграции.
-
----
-
-### ПРОФ-ИТ ГРУПП — Frontend-разработчик
-
-**Май 2024 — март 2026**
-
-Разработка админ-панелей, клиентских web-приложений и сложных B2B-интерфейсов.
-
-- Сокращал объём кодовой базы примерно на **50%** за счёт рефакторинга и декомпозиции компонентов.
-- Снижал отклик интерфейса с **800 мс до 450 мс**.
-- Разрабатывал сложные формы, таблицы, админские интерфейсы и визуальные редакторы.
-- Работал с SVG-схемами, графами, 3D/web-графикой и технической визуализацией.
-- Разрабатывал AR/WebAR-сцены для крупного российского производителя автомобилей.
-- Делал AI MVP, который сократил время обработки обращений примерно на **30%**.
-
-**Стек:** Vue, TypeScript, JavaScript, REST API, SVG, WebGL, Three.js, AR/WebAR, AI API.
+**Стек:** Vue 3, TypeScript, PrimeVue, Pinia, TanStack Query, PHP, Symfony, Doctrine, Node.js, MySQL, Vitest, Playwright, PHPUnit.
 
 ---
 
-### Repair-Shop — Frontend-разработчик
+### Фриланс — разработчик playable ads
+
+**Май 2025 — настоящее время**
+
+- Разрабатываю интерактивные рекламные мини-игры и инструменты их производства на TypeScript, Three.js и PixiJS.
+- Реализую игровые механики, 2D/3D-сцены, анимации, звук и адаптивное сенсорное управление.
+- Создаю адаптеры AppLovin, Unity Ads, Meta и Google: SDK, переходы в магазин, пауза и возобновление рекламы.
+- Собираю код и ресурсы в самостоятельный HTML; оптимизирую текстуры, модели, аудио, шрифты и размер артефактов.
+- Развиваю инструменты настройки сцен и анимаций, каталог ресурсов и автоматизированные проверки на Vitest и Playwright.
+
+**Стек:** TypeScript, Three.js, PixiJS, WebGL, GSAP, Theatre.js, Vite, Node.js, Web Audio API, glTF/GLB, Vitest, Playwright.
+
+---
+
+### ПРОФ-ИТ ГРУПП — Fullstack-разработчик
+
+**Май 2024 — февраль 2026**
+
+Работал в продуктовой команде из шести человек над веб-приложениями, техническими редакторами и браузерными AR-сценами.
+
+- С нуля разработал редактор технических 2D/3D-иллюстраций на D3.js, SVG и Three.js; после внедрения количество создаваемых иллюстраций выросло примерно на 20% в месяц.
+- Разрабатывал AR-сцены на Three.js, WebGL и WebXR для крупного российского автопроизводителя, оптимизировал их для слабых Android-устройств.
+- Участвовал в миграции Vue 2 → Vue 3, модернизации Angular-проекта и переводе JavaScript на TypeScript.
+- Разрабатывал Node.js API, внешние интеграции и обмен данными через WebSocket; backend составлял около 30% работы.
+- Создавал сложные интерфейсы и звонки через WebRTC / SIP.js; в отдельных сценариях сократил отклик с 800 до 450 мс.
+- Участвовал в AI API MVP, сократившем время операций примерно на 30%.
+- Через год начал координировать часть frontend/backend-команды: задачи, code review, сроки и технические решения.
+
+**Стек:** Vue 2/3, JavaScript, TypeScript, Node.js, Vuex, Pinia, TanStack Query, Element UI / Element Plus, Three.js, WebGL, WebXR, D3.js, SVG, REST API, WebSocket, WebRTC, SIP.js.
+
+---
+
+### Repair-Shop — Frontend-разработчик (Vue.js)
 
 **Сентябрь 2022 — май 2024**
 
-Разработка и поддержка frontend-приложения для автомобильного сервиса.
+Работал в команде из трёх человек над приложением автосервиса для австралийского рынка.
 
-- Разрабатывал пользовательские интерфейсы, формы и пользовательские сценарии.
-- Работал с состоянием приложения, интеграцией с backend API, загрузкой и кешированием серверных данных.
-- Рефакторил и декомпозировал крупные компоненты в переиспользуемые модули.
-- Добавлял компонентные тесты и работал с CI/CD через GitHub Actions.
-- Участвовал в code review и улучшении frontend-архитектуры.
-- Разрабатывал сервис страховых заявок.
-- Интегрировал AI API для определения дефектов кузовных деталей по фотографиям и создания заявок.
+- Разрабатывал frontend сервиса страховых заявок и интегрировал AI-анализ фотографий повреждений кузова.
+- Создавал формы, таблицы, модальные окна, фильтры и многоэтапные сценарии на JavaScript и TypeScript.
+- Интегрировал REST API, состояния загрузки и ошибок, клиентское состояние и синхронизацию серверных данных.
+- Декомпозировал крупные модули, писал компонентные тесты на Vitest, настраивал проверки и сборку через GitHub Actions.
+- Участвовал в code review, согласовании API-контрактов и подготовке релизов.
 
-**Стек:** JavaScript, Vue, React, Zustand, TanStack Query, REST API, Vitest, GitHub Actions, AI API.
+**Стек:** Vue.js, JavaScript, TypeScript, Vuex, HTML5, CSS3, REST API, Axios, AI API, Vitest, GitHub Actions.
 
 ---
 
-## Моя игра
+## Браузерные игры
 
-### Roguelike Game
+### Taproom 8
 
-<p>
-  <a href="https://github.com/StaburovAlexey/rougelike-game">
-    <img src="https://img.shields.io/badge/Repository-rougelike--game-181717?style=for-the-badge&logo=github&logoColor=white" alt="Roguelike Game Repository" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-In_Development-FF9800?style=for-the-badge" alt="Status" />
-</p>
+[Играть на GitHub Pages](https://staburovalexey.github.io/Taproom8-anomaly/) · [Исходный код](https://github.com/StaburovAlexey/Taproom8-anomaly)
 
-**Roguelike Game** — мой самостоятельный browser-based game project на **React**, **Three.js** и **Vite**. Проект строится вокруг забега по комнатам: игрок выбирает двери, проходит сражения, получает лут, усиливает персонажа и постепенно продвигается глубже по уровню.
+Браузерная 3D-игра с поиском аномалий, вдохновлённая Exit 8: нужно изучить бар, запомнить обычное состояние комнаты и находить изменения в следующих раундах.
 
-Основной фокус проекта — не просто UI, а полноценная игровая архитектура в браузере: отдельная игровая логика, 3D-сцена, система сущностей, работа с инвентарём, генерация комнат, обработка состояний и оптимизация производительности.
+- Управление игроком и камерой, столкновения, двери, аномалии, раунды и уровни сложности.
+- Меню, HUD, настройки и мобильное управление на Vue 3; звук, пауза и обработка потери фокуса.
+- Собственные 3D-ресурсы, загрузка моделей и оптимизация рендеринга.
+- Интеграция Яндекс Игр и самостоятельная версия на GitHub Pages.
 
-**Что реализую в проекте:**
-
-- 3D-сцена на **Three.js**;
-- UI-слой на **React**;
-- сборка через **Vite**;
-- анимации и переходы через **GSAP**;
-- система комнат и дверей;
-- враги, атаки, HP, боевые состояния;
-- лут разной редкости;
-- инвентарь и игровые параметры;
-- специальные комнаты: shop, safe room, hell room;
-- low-poly визуальный стиль;
-- собственные 3D-модели и ассеты через **Blender 3D**;
-- оптимизация геометрии, материалов и FPS.
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Blender_3D-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender 3D" />
-</p>
+**Стек:** TypeScript, Vue 3, Pinia, Three.js, WebGL, Vite, Vitest, Blender.
 
 ---
 
-## Проекты
+### Obby Cargo Delivery
 
-### Iggy Reservation
+[Играть в демо на GitHub Pages](https://staburovalexey.github.io/obby-1-cargo-delivery/) · [Исходный код](https://github.com/StaburovAlexey/obby-1-cargo-delivery)
 
-<p>
-  <a href="https://github.com/StaburovAlexey/iggy-reservation-vue">
-    <img src="https://img.shields.io/badge/Repository-iggy--reservation--vue-181717?style=for-the-badge&logo=github&logoColor=white" alt="Iggy Reservation Repository" />
-  </a>
-</p>
+Браузерная 3D-игра о вождении и доставке грузов с несколькими биомами, автомобилями, управлением персонажем и карьерной прогрессией.
 
-Приложение для контроля резервов столов на **Vue 3**.
+- Физика автомобилей, столкновения и управление на Three.js и Rapier.
+- Маршруты доставки, препятствия, топливо, улучшения, карьерные задания, нитро и развитие дрифта.
+- Гараж, выбор персонажей и машин, игровой интерфейс, звук и сенсорное управление.
+- В репозитории есть сервер мультиплеера на Node.js / WebSocket; демо Pages работает без мультиплеера и облачных сохранений, прогресс сбрасывается при перезагрузке.
 
-- frontend-разработка с нуля;
-- логика бронирования и пользовательские сценарии;
-- формы, маршрутизация, управление состоянием;
-- проектирование структуры компонентов;
-- pet-проект, который был приобретён компанией и используется в рабочих процессах.
+**Стек:** JavaScript, Three.js, WebGL, Rapier, Node.js, WebSocket, Rsbuild / Rspack.
 
 ---
 
-### Iggy Taproom Site
-
-<p>
-  <a href="https://taproom.alexey-staburov.ru/">
-    <img src="https://img.shields.io/badge/Live_Demo-tap--room.alexeystaburov.ru-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Iggy Taproom Live Demo" />
-  </a>
-  <a href="https://github.com/StaburovAlexey/iggy-taproom-site">
-    <img src="https://img.shields.io/badge/Repository-iggy--taproom--site-181717?style=for-the-badge&logo=github&logoColor=white" alt="Iggy Taproom Repository" />
-  </a>
-</p>
-
-Сайт для заведения с 3D-визуализацией в ретро-стиле.
-
-- Vue / JavaScript;
-- адаптивная верстка и UI-компоненты;
-- web-component и Shadow DOM;
-- 3D-визуализация через **Three.js**;
-- кастомные 3D-модели, созданные в **Blender 3D**;
-- оптимизация под слабые устройства.
-
----
+## Другие проекты
 
 ### Vehicle Electrical Circuit
 
@@ -345,6 +312,6 @@ AI Integrations        →  AI API, script generation, defect detection from pho
   </a>
 </p>
 
-### Открыт к Frontend / Fullstack JS-ролям, продуктовой разработке и задачам на стыке B2B-интерфейсов, 3D, AR и игр.
+### Открыт к Frontend / Fullstack-ролям, продуктовой разработке и задачам на стыке B2B-интерфейсов, 3D, AR и игр.
 
 </div>
