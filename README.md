@@ -46,6 +46,14 @@ I also **develop browser games** and build **playable ads** with **TypeScript, T
 
 ---
 
+## AI in Development and Business Processes
+
+I use AI tools to accelerate web application and browser game development: codebase research, prototyping, coding and refactoring, test preparation and debugging. I integrate AI and automated checks into my own development workflow to reduce manual work and time spent on repetitive tasks. This helps reduce the effort required to develop and release changes. I validate the results through code review, tests and running the application.
+
+I have integrated AI into business processes, including call-script generation for contact-center operators and analysis of vehicle damage photos for insurance-claim preparation. These solutions automate parts of manual content and data preparation, helping employees complete their tasks faster. My work included integrating AI APIs into application interfaces and logic.
+
+---
+
 ## Main Stack
 
 <div align="center">
