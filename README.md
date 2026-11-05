@@ -209,13 +209,14 @@ Worked in a three-person team on an automotive-service application for the Austr
 
 ### Taproom 8
 
-[Play on GitHub Pages](https://staburovalexey.github.io/Taproom8-anomaly/) · [Source code](https://github.com/StaburovAlexey/Taproom8-anomaly)
+[Play on GitHub Pages](https://staburovalexey.github.io/Taproom8-anomaly/)
 
 A browser 3D anomaly-search game inspired by Exit 8: explore a bar, remember its normal state and identify changes in subsequent rounds.
 
 - Player/camera controls, collisions, doors, anomalies, rounds and difficulty settings.
 - Vue 3 menus, HUD, settings and mobile controls; audio and pause/focus handling.
 - Custom 3D assets, model loading and rendering optimization.
+- Fully baked lighting: the scene uses no light sources at runtime.
 - Yandex Games integration and a standalone GitHub Pages version.
 
 **Stack:** TypeScript, Vue 3, Pinia, Three.js, WebGL, Vite, Vitest, Blender.
@@ -224,7 +225,7 @@ A browser 3D anomaly-search game inspired by Exit 8: explore a bar, remember its
 
 ### Obby Cargo Delivery
 
-[Play demo on GitHub Pages](https://staburovalexey.github.io/obby-1-cargo-delivery/) · [Source code](https://github.com/StaburovAlexey/obby-1-cargo-delivery)
+[Play demo on GitHub Pages](https://staburovalexey.github.io/obby-1-cargo-delivery/)
 
 A browser 3D driving and cargo-delivery game with multiple biomes, vehicles, character controls and career progression.
 
