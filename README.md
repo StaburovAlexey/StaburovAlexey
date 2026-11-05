@@ -8,7 +8,7 @@
 
 # Alexey Staburov
 
-### Middle Frontend / Fullstack JS Developer · Vue.js · React · TypeScript · Node.js · Three.js · AR/WebAR
+### Fullstack Developer · Vue.js · TypeScript · Node.js · PHP / Symfony · Three.js · Playable Ads
 
 <p>
   <a href="https://github.com/StaburovAlexey">
@@ -36,13 +36,13 @@
 
 ## About Me
 
-I am a **Frontend / Fullstack JS developer** with **3 years 10 months of commercial experience** in product development. My core stack is **Vue 2 / Vue 3**, **React**, **JavaScript**, **TypeScript**, **Pinia**, **Zustand**, **TanStack Query**, **PrimeVue**, **Element Plus**, **REST API**, **Node.js**, **Express**, **PostgreSQL**, **Prisma ORM**, and **Docker**.
+I am a **Fullstack developer** with **4+ years of commercial experience**, focused on **Vue.js and TypeScript**. I also develop backend services with **Node.js** and **PHP / Symfony**.
 
-I build complex **B2B interfaces**: CRM systems, admin panels, forms, tables, visual editors, SVG diagrams, graphs, technical visualization, 3D scenes, and interactive UI systems.
+At **SipSpeak**, I independently migrated the entire CRM frontend from **Nuxt 2 / Vue 2 and Element UI** to **Vue 3, TypeScript and PrimeVue**. The new interface is deployed and used in production. I work on APIs, reporting, access control, call-script editing and WebRTC call-quality monitoring.
 
-In commercial projects, I worked on a high-load CRM with **500+ active users per day**, migrated **200+ components** from **Vue 2 to Vue 3**, reduced code volume by **30–50%**, improved page loading speed by about **25%**, and reduced interface response time from **800 ms to 450 ms**.
+My experience includes technical **2D/3D editors**, browser **AR / WebXR**, AI API integrations, **WebSocket / WebRTC**, performance optimization, code review and coordinating part of a development team.
 
-A separate direction of my work is **3D, browser game development, and AR/WebAR**: I develop gameplay mechanics, work with **Three.js**, **WebGL**, **PixiJS**, create low-poly assets and models in **Blender 3D**, build AR scenes for the browser, and optimize rendering for low-end devices.
+Alongside product development, I build **playable ads and browser games** with **TypeScript, Three.js and PixiJS**: gameplay, graphics, audio, mobile controls, platform adapters and self-contained HTML builds.
 
 ---
 
@@ -75,6 +75,9 @@ A separate direction of my work is **3D, browser game development, and AR/WebAR*
 ### Backend / Fullstack
 
 <p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -113,13 +116,13 @@ A separate direction of my work is **3D, browser game development, and AR/WebAR*
 ## What I Do
 
 ```txt
-Frontend Architecture  →  Vue 2 / Vue 3 / React / Composition API / TypeScript
+Frontend Architecture  →  Vue 2 / Vue 3 / Composition API / TypeScript
 Business UI            →  CRM, admin panels, forms, tables, complex state
 Legacy Refactoring     →  migration, decomposition, code simplification
 Data Layer             →  REST API, TanStack Query, caching, invalidation, state management
-Fullstack              →  Node.js, Express, PostgreSQL, Prisma ORM, Docker
+Fullstack              →  Node.js, PHP, Symfony, Doctrine, MySQL, REST API, Docker
 Visual Interfaces      →  SVG, graphs, technical visualization, 3D scenes
-Game Development       →  Three.js, PixiJS, WebGL, game UI, optimization
+Game Development       →  Three.js, PixiJS, WebGL, playable ads, game UI, optimization
 AR / WebAR             →  browser AR scenes, mobile rendering, low-end optimization
 AI Integrations        →  AI API, script generation, defect detection from photos
 3D Assets              →  Blender 3D, low-poly models, materials, optimization
@@ -127,142 +130,106 @@ AI Integrations        →  AI API, script generation, defect detection from pho
 
 ---
 
-## Official Commercial Experience
+## Commercial Experience
 
-### SipSpeak — Frontend Developer
+### SipSpeak — Fullstack Developer (Vue.js / Node.js / PHP)
 
 **February 2026 — Present**
 
-Development of a CRM platform for call centers with more than **500 active users per day**.
+CRM development for contact-center automation and telephony management.
 
-- Migrated **200+ components** from **Vue 2** to **Vue 3**.
-- Reduced code volume by about **30%** through refactoring and decomposition.
-- Improved page loading speed by about **25%**.
-- Developed browser-based IP telephony features using **WebRTC / SIP**.
-- Built and improved a sales script builder for call-center operators.
-- Integrated AI-based script generation into internal workflows.
-- Worked on bug fixes, dependency updates, planning, and code review.
+- Independently migrated the entire frontend from Nuxt 2 / Vue 2 and Element UI to Vue 3, TypeScript and PrimeVue; shipped the new interface to production.
+- Introduced a design system and application architecture; built a visual call-script editor.
+- Automated user tours and training materials, reducing support requests by 33%.
+- Implemented WebRTC call-quality monitoring and migrated telephony from JsSIP to SIP.js.
+- Develop PHP/Symfony and Node.js backend functionality, APIs, reporting and access control.
+- Cover frontend and backend changes with automated tests.
 
-**Stack:** Vue 2, Vue 3, TypeScript, JavaScript, Pinia, REST API, WebRTC, SIP, AI integrations.
-
----
-
-### PROF-IT GROUP — Frontend Developer
-
-**May 2024 — March 2026**
-
-Development of admin panels, client web applications, and complex B2B interfaces.
-
-- Reduced codebase volume by about **50%** through refactoring and component decomposition.
-- Improved interface response time from **800 ms to 450 ms**.
-- Built complex forms, tables, admin interfaces, and visual editors.
-- Worked with SVG diagrams, graphs, 3D/web graphics, and technical visualization.
-- Developed AR/WebAR scenes for a large Russian automobile manufacturer.
-- Built an AI MVP that reduced request processing time by about **30%**.
-
-**Stack:** Vue, TypeScript, JavaScript, REST API, SVG, WebGL, Three.js, AR/WebAR, AI API.
+**Stack:** Vue 3, TypeScript, PrimeVue, Pinia, TanStack Query, PHP, Symfony, Doctrine, Node.js, MySQL, Vitest, Playwright, PHPUnit.
 
 ---
 
-### Repair-Shop — Frontend Developer
+### Freelance — Playable Ads Developer
+
+**May 2025 — Present**
+
+- Build interactive advertising mini-games and production tools with TypeScript, Three.js and PixiJS.
+- Implement gameplay, 2D/3D scenes, animations, audio and responsive touch controls.
+- Develop adapters for AppLovin, Unity Ads, Meta and Google, including SDK integration, store redirects and pause/resume handling.
+- Package code and assets into self-contained HTML builds; optimize textures, models, audio, fonts and artifact size.
+- Build scene and animation tools, reusable asset catalogs, and automated checks with Vitest and Playwright.
+
+**Stack:** TypeScript, Three.js, PixiJS, WebGL, GSAP, Theatre.js, Vite, Node.js, Web Audio API, glTF/GLB, Vitest, Playwright.
+
+---
+
+### PROF-IT GROUP — Fullstack Developer
+
+**May 2024 — February 2026**
+
+Worked in a six-person product team on web applications, technical editors and browser AR scenes.
+
+- Built a technical 2D/3D illustration editor with D3.js, SVG and Three.js; illustration output increased by approximately 20% per month after adoption.
+- Developed Three.js / WebGL / WebXR scenes for a major Russian car manufacturer and optimized them for low-end Android devices.
+- Participated in Vue 2 → Vue 3 migration, Angular modernization and JavaScript → TypeScript conversion.
+- Developed Node.js APIs, external integrations and WebSocket data exchange; backend represented about 30% of my work.
+- Built complex UI flows, WebRTC / SIP.js calling, and improved response time from 800 to 450 ms in specific scenarios.
+- Contributed to an AI API MVP that reduced operation time by approximately 30%.
+- After the first year, coordinated part of the frontend/backend team: task allocation, code review, delivery and technical decisions.
+
+**Stack:** Vue 2/3, JavaScript, TypeScript, Node.js, Vuex, Pinia, TanStack Query, Element UI / Element Plus, Three.js, WebGL, WebXR, D3.js, SVG, REST API, WebSocket, WebRTC, SIP.js.
+
+---
+
+### Repair-Shop — Frontend Developer (Vue.js)
 
 **September 2022 — May 2024**
 
-Development and support of a frontend application for an automotive service business.
+Worked in a three-person team on an automotive-service application for the Australian market.
 
-- Developed user interfaces, forms, and user flows.
-- Worked with application state, backend API integration, server data loading and caching.
-- Refactored and decomposed large components into reusable modules.
-- Added component tests and worked with CI/CD through GitHub Actions.
-- Participated in code review and frontend architecture improvements.
-- Developed an insurance-claim service.
-- Integrated an AI API for detecting car body defects from photos and creating requests.
+- Developed the frontend of an insurance-claim service and integrated AI-based photo analysis of vehicle body damage.
+- Built forms, tables, dialogs, filters and multi-step flows with JavaScript and TypeScript.
+- Integrated REST APIs, loading/error states, client state and server-data synchronization.
+- Refactored large modules, added Vitest component tests and configured GitHub Actions checks and builds.
+- Participated in code review, API-contract discussions and release preparation.
 
-**Stack:** JavaScript, Vue, React, Zustand, TanStack Query, REST API, Vitest, GitHub Actions, AI API.
+**Stack:** Vue.js, JavaScript, TypeScript, Vuex, HTML5, CSS3, REST API, Axios, AI API, Vitest, GitHub Actions.
 
 ---
 
-## My Game
+## Browser Games
 
-### Roguelike Game
+### Taproom 8
 
-<p>
-  <a href="https://github.com/StaburovAlexey/rougelike-game">
-    <img src="https://img.shields.io/badge/Repository-rougelike--game-181717?style=for-the-badge&logo=github&logoColor=white" alt="Roguelike Game Repository" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-In_Development-FF9800?style=for-the-badge" alt="Status" />
-</p>
+[Play on GitHub Pages](https://staburovalexey.github.io/Taproom8-anomaly/) · [Source code](https://github.com/StaburovAlexey/Taproom8-anomaly)
 
-**Roguelike Game** is my independent browser-based game project built with **React**, **Three.js**, and **Vite**. The project is centered around a room-based run: the player chooses doors, fights enemies, collects loot, upgrades the character, and gradually moves deeper through the level.
+A browser 3D anomaly-search game inspired by Exit 8: explore a bar, remember its normal state and identify changes in subsequent rounds.
 
-The main focus of the project is not only UI, but a complete browser game architecture: separated game logic, a 3D scene, an entity system, inventory handling, room generation, state management, and performance optimization.
+- Player/camera controls, collisions, doors, anomalies, rounds and difficulty settings.
+- Vue 3 menus, HUD, settings and mobile controls; audio and pause/focus handling.
+- Custom 3D assets, model loading and rendering optimization.
+- Yandex Games integration and a standalone GitHub Pages version.
 
-**What I am building in the project:**
-
-- 3D scene with **Three.js**;
-- UI layer with **React**;
-- build setup with **Vite**;
-- animations and transitions with **GSAP**;
-- room and door system;
-- enemies, attacks, HP, and combat states;
-- loot with different rarity levels;
-- inventory and gameplay parameters;
-- special rooms: shop, safe room, hell room;
-- low-poly visual style;
-- custom 3D models and assets made with **Blender 3D**;
-- geometry, material, and FPS optimization.
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Blender_3D-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender 3D" />
-</p>
+**Stack:** TypeScript, Vue 3, Pinia, Three.js, WebGL, Vite, Vitest, Blender.
 
 ---
 
-## Projects
+### Obby Cargo Delivery
 
-### Iggy Reservation
+[Play demo on GitHub Pages](https://staburovalexey.github.io/obby-1-cargo-delivery/) · [Source code](https://github.com/StaburovAlexey/obby-1-cargo-delivery)
 
-<p>
-  <a href="https://github.com/StaburovAlexey/iggy-reservation-vue">
-    <img src="https://img.shields.io/badge/Repository-iggy--reservation--vue-181717?style=for-the-badge&logo=github&logoColor=white" alt="Iggy Reservation Repository" />
-  </a>
-</p>
+A browser 3D driving and cargo-delivery game with multiple biomes, vehicles, character controls and career progression.
 
-An application for managing table reservations, built with **Vue 3**.
+- Vehicle physics, collisions and driving controls with Three.js and Rapier.
+- Delivery routes, obstacles, fuel, upgrades, career missions, nitro and drift progression.
+- Garage, character/vehicle selection, game UI, audio and touch controls.
+- Node.js / WebSocket multiplayer server in the repository; the Pages demo runs without multiplayer or cloud saves and resets progress on reload.
 
-- frontend development from scratch;
-- reservation logic and user flows;
-- forms, routing, and state management;
-- component structure design;
-- a pet project that was purchased by a company and is used in work processes.
+**Stack:** JavaScript, Three.js, WebGL, Rapier, Node.js, WebSocket, Rsbuild / Rspack.
 
 ---
 
-### Iggy Taproom Site
-
-<p>
-  <a href="https://taproom.alexey-staburov.ru/">
-    <img src="https://img.shields.io/badge/Live_Demo-tap--room.alexeystaburov.ru-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Iggy Taproom Live Demo" />
-  </a>
-  <a href="https://github.com/StaburovAlexey/iggy-taproom-site">
-    <img src="https://img.shields.io/badge/Repository-iggy--taproom--site-181717?style=for-the-badge&logo=github&logoColor=white" alt="Iggy Taproom Repository" />
-  </a>
-</p>
-
-A website for a taproom with retro-style 3D visualization.
-
-- Vue / JavaScript;
-- responsive layout and UI components;
-- Web Component and Shadow DOM;
-- 3D visualization with **Three.js**;
-- custom 3D models created in **Blender 3D**;
-- optimization for low-end devices.
-
----
+## Other Projects
 
 ### Vehicle Electrical Circuit
 
@@ -345,6 +312,6 @@ A **PixiJS** game built as a Telegram Mini App.
   </a>
 </p>
 
-### Open to Frontend / Fullstack JS roles, product development, and tasks at the intersection of B2B interfaces, 3D, AR, and games.
+### Open to Frontend / Fullstack roles, product development, and tasks at the intersection of B2B interfaces, 3D, AR, and games.
 
 </div>
