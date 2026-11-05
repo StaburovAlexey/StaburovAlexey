@@ -38,11 +38,11 @@
 
 I am a **Fullstack developer** with **4+ years of commercial experience**, focused on **Vue.js and TypeScript**. I also develop backend services with **Node.js** and **PHP / Symfony**.
 
-At **SipSpeak**, I independently migrated the entire CRM frontend from **Nuxt 2 / Vue 2 and Element UI** to **Vue 3, TypeScript and PrimeVue**. The new interface is deployed and used in production. I work on APIs, reporting, access control, call-script editing and WebRTC call-quality monitoring.
+At my **most recent workplace**, I independently migrated the entire CRM frontend from **Nuxt 2 / Vue 2 and Element UI** to **Vue 3, TypeScript and PrimeVue**. The new interface is deployed and used in production. I work on APIs, reporting, access control, call-script editing and WebRTC call-quality monitoring.
 
 My experience includes technical **2D/3D editors**, browser **AR / WebXR**, AI API integrations, **WebSocket / WebRTC**, performance optimization, code review and coordinating part of a development team.
 
-Alongside product development, I build **playable ads and browser games** with **TypeScript, Three.js and PixiJS**: gameplay, graphics, audio, mobile controls, platform adapters and self-contained HTML builds.
+I also **develop browser games** and build **playable ads** with **TypeScript, Three.js and PixiJS**: gameplay, graphics, audio, mobile controls, platform adapters and self-contained HTML builds.
 
 ---
 
@@ -132,7 +132,7 @@ AI Integrations        →  AI API, script generation, defect detection from pho
 
 ## Commercial Experience
 
-### SipSpeak — Fullstack Developer (Vue.js / Node.js / PHP)
+### Most Recent Workplace — Fullstack Developer (Vue.js / Node.js / PHP)
 
 **February 2026 — Present**
 
