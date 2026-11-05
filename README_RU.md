@@ -209,13 +209,14 @@ AI Integrations        →  AI API, script generation, defect detection from pho
 
 ### Taproom 8
 
-[Играть на GitHub Pages](https://staburovalexey.github.io/Taproom8-anomaly/) · [Исходный код](https://github.com/StaburovAlexey/Taproom8-anomaly)
+[Играть на GitHub Pages](https://staburovalexey.github.io/Taproom8-anomaly/)
 
 Браузерная 3D-игра с поиском аномалий, вдохновлённая Exit 8: нужно изучить бар, запомнить обычное состояние комнаты и находить изменения в следующих раундах.
 
 - Управление игроком и камерой, столкновения, двери, аномалии, раунды и уровни сложности.
 - Меню, HUD, настройки и мобильное управление на Vue 3; звук, пауза и обработка потери фокуса.
 - Собственные 3D-ресурсы, загрузка моделей и оптимизация рендеринга.
+- Всё освещение запечено: сцена работает без единого источника света во время игры.
 - Интеграция Яндекс Игр и самостоятельная версия на GitHub Pages.
 
 **Стек:** TypeScript, Vue 3, Pinia, Three.js, WebGL, Vite, Vitest, Blender.
@@ -224,7 +225,7 @@ AI Integrations        →  AI API, script generation, defect detection from pho
 
 ### Obby Cargo Delivery
 
-[Играть в демо на GitHub Pages](https://staburovalexey.github.io/obby-1-cargo-delivery/) · [Исходный код](https://github.com/StaburovAlexey/obby-1-cargo-delivery)
+[Играть в демо на GitHub Pages](https://staburovalexey.github.io/obby-1-cargo-delivery/)
 
 Браузерная 3D-игра о вождении и доставке грузов с несколькими биомами, автомобилями, управлением персонажем и карьерной прогрессией.
 
